@@ -1,0 +1,1242 @@
+[
+  {
+    "rank": 1,
+    "token_id": 4090,
+    "frequency": 39508,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 4.085248557254227,
+      "Attention K": 0.5517869798521818,
+      "Attention V": 21.05649488711147,
+      "Attention Q": 1.1136984914447707,
+      "Attention": 25.18730383719753,
+      "MLP": 48.00546724713982
+    }
+  },
+  {
+    "rank": 2,
+    "token_id": 3554,
+    "frequency": 30815,
+    "effective_rank": 14.0,
+    "layer_distribution": {
+      "Embeddings": 6.905727730001622,
+      "Attention K": 1.392179133538861,
+      "Attention V": 2.8233003407431445,
+      "Attention Q": 1.661528476391368,
+      "Attention": 1.8335226350803182,
+      "MLP": 85.38374168424468
+    }
+  },
+  {
+    "rank": 3,
+    "token_id": 3667,
+    "frequency": 27024,
+    "effective_rank": 14.0,
+    "layer_distribution": {
+      "Embeddings": 1.7798993487270574,
+      "Attention K": 1.5985790408525755,
+      "Attention Q": 2.2757548845470694,
+      "MLP": 93.3392539964476,
+      "Attention V": 0.5994671403197158,
+      "Attention": 0.4070455891059799
+    }
+  },
+  {
+    "rank": 4,
+    "token_id": 391,
+    "frequency": 25152,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 3.3277671755725193,
+      "Attention K": 1.387563613231552,
+      "Attention V": 12.726622137404581,
+      "Attention Q": 1.9998409669211195,
+      "Attention": 12.909510178117047,
+      "MLP": 67.64869592875317
+    }
+  },
+  {
+    "rank": 5,
+    "token_id": 2847,
+    "frequency": 24799,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 1.9920158070889955,
+      "Attention K": 1.6452276301463769,
+      "Attention V": 16.085326021210534,
+      "Attention Q": 2.0081454897374895,
+      "Attention": 16.524859873381992,
+      "MLP": 61.74442517843461
+    }
+  },
+  {
+    "rank": 6,
+    "token_id": 156,
+    "frequency": 24029,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 1.8061509009946315,
+      "Attention K": 1.860252195264056,
+      "Attention V": 1.5439677056889594,
+      "Attention Q": 2.3679720337925008,
+      "Attention": 0.9738232968496401,
+      "MLP": 91.44783386741021
+    }
+  },
+  {
+    "rank": 7,
+    "token_id": 1402,
+    "frequency": 21393,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 1.902491469172159,
+      "Attention K": 2.2717711400925538,
+      "Attention V": 12.223624550086477,
+      "Attention Q": 2.365259664376198,
+      "Attention": 11.587902584957696,
+      "MLP": 69.64895059131491
+    }
+  },
+  {
+    "rank": 8,
+    "token_id": 1915,
+    "frequency": 19660,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 1.276703967446592,
+      "Attention K": 2.472024415055951,
+      "Attention V": 11.347914547304171,
+      "Attention Q": 2.6805696846388605,
+      "Attention": 11.052899287894201,
+      "MLP": 71.16988809766023
+    }
+  },
+  {
+    "rank": 9,
+    "token_id": 1626,
+    "frequency": 18405,
+    "effective_rank": 2.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 10,
+    "token_id": 3844,
+    "frequency": 15570,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 1.2331406551059731,
+      "Attention K": 3.204881181759794,
+      "Attention V": 5.664739884393064,
+      "Attention Q": 3.776493256262042,
+      "Attention": 4.6563904945407835,
+      "MLP": 81.46435452793834
+    }
+  },
+  {
+    "rank": 11,
+    "token_id": 256,
+    "frequency": 12695,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 1.1736904293028751,
+      "Attention K": 4.584482079558881,
+      "Attention V": 8.814493895234344,
+      "Attention Q": 4.253643166601024,
+      "Attention": 7.26270185112249,
+      "MLP": 73.91098857818038
+    }
+  },
+  {
+    "rank": 12,
+    "token_id": 3851,
+    "frequency": 12438,
+    "effective_rank": 6.0,
+    "layer_distribution": {
+      "Embeddings": 99.96784048882456,
+      "Attention Q": 0.0241196333815726,
+      "Attention K": 0.008039877793857533
+    }
+  },
+  {
+    "rank": 13,
+    "token_id": 117,
+    "frequency": 11867,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 1.533664784697059,
+      "Attention K": 5.949271087890789,
+      "Attention V": 8.999747198112413,
+      "Attention Q": 5.241425802645993,
+      "Attention": 6.9351984494817565,
+      "MLP": 71.34069267717199
+    }
+  },
+  {
+    "rank": 14,
+    "token_id": 29,
+    "frequency": 11726,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 1.7908920347944737,
+      "Attention K": 4.980385468190347,
+      "Attention V": 6.234009892546478,
+      "Attention Q": 5.023025754733071,
+      "Attention": 4.536926488146,
+      "MLP": 77.43476036158962
+    }
+  },
+  {
+    "rank": 15,
+    "token_id": 2593,
+    "frequency": 11563,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 4.038744270518032,
+      "Attention K": 5.439764766928998,
+      "Attention V": 8.060191991697655,
+      "Attention Q": 5.076537230822451,
+      "Attention": 6.641874945948284,
+      "MLP": 70.74288679408458
+    }
+  },
+  {
+    "rank": 16,
+    "token_id": 553,
+    "frequency": 11249,
+    "effective_rank": 3.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 17,
+    "token_id": 2271,
+    "frequency": 10956,
+    "effective_rank": 3.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 18,
+    "token_id": 3565,
+    "frequency": 10688,
+    "effective_rank": 10.0,
+    "layer_distribution": {
+      "Embeddings": 99.57896706586826,
+      "Attention Q": 0.1964820359281437,
+      "Attention K": 0.14970059880239522,
+      "MLP": 0.07485029940119761
+    }
+  },
+  {
+    "rank": 19,
+    "token_id": 2084,
+    "frequency": 10422,
+    "effective_rank": 5.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 20,
+    "token_id": 3820,
+    "frequency": 9829,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 1.8414894699359041,
+      "Attention K": 7.2642181300234006,
+      "Attention V": 7.304914029911487,
+      "Attention Q": 7.070912605554991,
+      "Attention": 5.758469834164208,
+      "MLP": 70.75999593041001
+    }
+  },
+  {
+    "rank": 21,
+    "token_id": 1008,
+    "frequency": 9734,
+    "effective_rank": 11.0,
+    "layer_distribution": {
+      "Embeddings": 99.46579001438258,
+      "Attention K": 0.16437230326689953,
+      "Attention Q": 0.2465584549003493,
+      "MLP": 0.12327922745017465
+    }
+  },
+  {
+    "rank": 22,
+    "token_id": 3759,
+    "frequency": 9653,
+    "effective_rank": 6.0,
+    "layer_distribution": {
+      "Embeddings": 99.94820263130633,
+      "Attention Q": 0.031078421216202214,
+      "Attention K": 0.020718947477468143
+    }
+  },
+  {
+    "rank": 23,
+    "token_id": 1371,
+    "frequency": 9074,
+    "effective_rank": 4.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 24,
+    "token_id": 3748,
+    "frequency": 5215,
+    "effective_rank": 8.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 25,
+    "token_id": 3756,
+    "frequency": 4678,
+    "effective_rank": 5.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 26,
+    "token_id": 662,
+    "frequency": 4343,
+    "effective_rank": 6.0,
+    "layer_distribution": {
+      "Embeddings": 99.95394888326042,
+      "Attention K": 0.046051116739580934
+    }
+  },
+  {
+    "rank": 27,
+    "token_id": 1177,
+    "frequency": 4094,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 3.248656570591109,
+      "Attention K": 15.412799218368345,
+      "Attention Q": 13.922813873961895,
+      "Attention": 2.5403028822667317,
+      "MLP": 61.28480703468491,
+      "Attention V": 3.590620420127015
+    }
+  },
+  {
+    "rank": 28,
+    "token_id": 2475,
+    "frequency": 3562,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 41.128579449747335,
+      "Attention K": 12.268388545760809,
+      "Attention Q": 11.819202695115104,
+      "MLP": 34.13812464907355,
+      "Attention": 0.36496350364963503,
+      "Attention V": 0.2807411566535654
+    }
+  },
+  {
+    "rank": 29,
+    "token_id": 1218,
+    "frequency": 3419,
+    "effective_rank": 10.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 30,
+    "token_id": 292,
+    "frequency": 2955,
+    "effective_rank": 7.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 31,
+    "token_id": 735,
+    "frequency": 2952,
+    "effective_rank": 7.0,
+    "layer_distribution": {
+      "Embeddings": 99.96612466124661,
+      "MLP": 0.03387533875338753
+    }
+  },
+  {
+    "rank": 32,
+    "token_id": 1927,
+    "frequency": 2843,
+    "effective_rank": 5.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 33,
+    "token_id": 999,
+    "frequency": 2591,
+    "effective_rank": 9.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 34,
+    "token_id": 548,
+    "frequency": 2451,
+    "effective_rank": 5.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 35,
+    "token_id": 68,
+    "frequency": 2417,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 5.088953247827885,
+      "Attention K": 23.045097227968554,
+      "Attention Q": 22.176251551510138,
+      "Attention": 1.4480761274306992,
+      "MLP": 46.04882085229624,
+      "Attention V": 2.1928009929664873
+    }
+  },
+  {
+    "rank": 36,
+    "token_id": 3291,
+    "frequency": 2356,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 5.772495755517826,
+      "Attention K": 22.877758913412563,
+      "Attention Q": 21.604414261460104,
+      "MLP": 45.840407470288625,
+      "Attention V": 1.8675721561969438,
+      "Attention": 2.037351443123939
+    }
+  },
+  {
+    "rank": 37,
+    "token_id": 17,
+    "frequency": 2286,
+    "effective_rank": 9.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 38,
+    "token_id": 537,
+    "frequency": 2119,
+    "effective_rank": 7.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 39,
+    "token_id": 2554,
+    "frequency": 1889,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 5.611434621492854,
+      "Attention K": 28.37480148226575,
+      "Attention Q": 24.139756484912652,
+      "MLP": 38.32715722604553,
+      "Attention": 1.7469560614081523,
+      "Attention V": 1.7998941238750663
+    }
+  },
+  {
+    "rank": 40,
+    "token_id": 2571,
+    "frequency": 1578,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 7.477820025348543,
+      "Attention K": 27.566539923954377,
+      "Attention Q": 27.566539923954377,
+      "MLP": 35.361216730038024,
+      "Attention V": 1.2674271229404308,
+      "Attention": 0.7604562737642585
+    }
+  },
+  {
+    "rank": 41,
+    "token_id": 2415,
+    "frequency": 1499,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 16.344229486324217,
+      "Attention K": 27.484989993328885,
+      "Attention Q": 25.083388925950633,
+      "MLP": 29.352901934623084,
+      "Attention V": 0.9339559706470981,
+      "Attention": 0.8005336891260841
+    }
+  },
+  {
+    "rank": 42,
+    "token_id": 745,
+    "frequency": 1208,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 6.622516556291391,
+      "Attention K": 31.62251655629139,
+      "Attention Q": 29.96688741721854,
+      "MLP": 30.21523178807947,
+      "Attention V": 0.8278145695364238,
+      "Attention": 0.7450331125827815
+    }
+  },
+  {
+    "rank": 43,
+    "token_id": 1995,
+    "frequency": 1152,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 5.642361111111112,
+      "Attention K": 36.11111111111111,
+      "Attention Q": 33.33333333333333,
+      "Attention": 0.607638888888889,
+      "MLP": 23.26388888888889,
+      "Attention V": 1.0416666666666665
+    }
+  },
+  {
+    "rank": 44,
+    "token_id": 3889,
+    "frequency": 1095,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 6.757990867579909,
+      "Attention K": 35.15981735159817,
+      "Attention Q": 29.863013698630137,
+      "MLP": 26.118721461187217,
+      "Attention V": 1.004566210045662,
+      "Attention": 1.095890410958904
+    }
+  },
+  {
+    "rank": 45,
+    "token_id": 2678,
+    "frequency": 1083,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 6.278855032317636,
+      "Attention K": 38.59649122807017,
+      "Attention Q": 31.486611265004615,
+      "MLP": 22.068328716528164,
+      "Attention": 0.8310249307479225,
+      "Attention V": 0.7386888273314866
+    }
+  },
+  {
+    "rank": 46,
+    "token_id": 1695,
+    "frequency": 1064,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 3.571428571428571,
+      "Attention K": 35.99624060150376,
+      "Attention Q": 32.23684210526316,
+      "MLP": 26.879699248120303,
+      "Attention V": 0.8458646616541353,
+      "Attention": 0.4699248120300752
+    }
+  },
+  {
+    "rank": 47,
+    "token_id": 2966,
+    "frequency": 976,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 28.07377049180328,
+      "Attention K": 27.151639344262296,
+      "Attention Q": 25.81967213114754,
+      "Attention": 0.9221311475409836,
+      "MLP": 17.725409836065573,
+      "Attention V": 0.3073770491803279
+    }
+  },
+  {
+    "rank": 48,
+    "token_id": 1291,
+    "frequency": 976,
+    "effective_rank": 13.0,
+    "layer_distribution": {
+      "Embeddings": 99.18032786885246,
+      "Attention K": 0.7172131147540983,
+      "Attention Q": 0.10245901639344263
+    }
+  },
+  {
+    "rank": 49,
+    "token_id": 3995,
+    "frequency": 902,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 89.68957871396896,
+      "Attention K": 5.65410199556541,
+      "Attention Q": 3.6585365853658534,
+      "MLP": 0.9977827050997782
+    }
+  },
+  {
+    "rank": 50,
+    "token_id": 2693,
+    "frequency": 886,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 6.320541760722348,
+      "Attention K": 36.681715575620764,
+      "Attention Q": 36.90744920993228,
+      "MLP": 18.397291196388263,
+      "Attention": 0.9029345372460496,
+      "Attention V": 0.7900677200902935
+    }
+  },
+  {
+    "rank": 51,
+    "token_id": 3104,
+    "frequency": 882,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 6.122448979591836,
+      "Attention K": 35.827664399092974,
+      "Attention Q": 35.941043083900226,
+      "Attention": 0.7936507936507936,
+      "MLP": 20.74829931972789,
+      "Attention V": 0.5668934240362812
+    }
+  },
+  {
+    "rank": 52,
+    "token_id": 2299,
+    "frequency": 853,
+    "effective_rank": 14.0,
+    "layer_distribution": {
+      "Embeddings": 92.61430246189917,
+      "Attention K": 4.572098475967175,
+      "Attention Q": 2.3446658851113718,
+      "MLP": 0.4689331770222743
+    }
+  },
+  {
+    "rank": 53,
+    "token_id": 2674,
+    "frequency": 850,
+    "effective_rank": 12.0,
+    "layer_distribution": {
+      "Embeddings": 98.82352941176471,
+      "Attention K": 0.4705882352941176,
+      "Attention Q": 0.7058823529411765
+    }
+  },
+  {
+    "rank": 54,
+    "token_id": 3698,
+    "frequency": 774,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 15.374677002583978,
+      "Attention K": 35.65891472868217,
+      "Attention Q": 35.78811369509044,
+      "MLP": 12.144702842377262,
+      "Attention": 0.9043927648578811,
+      "Attention V": 0.12919896640826875
+    }
+  },
+  {
+    "rank": 55,
+    "token_id": 3648,
+    "frequency": 760,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 8.68421052631579,
+      "Attention K": 38.28947368421053,
+      "Attention Q": 36.973684210526315,
+      "MLP": 14.605263157894738,
+      "Attention": 0.6578947368421052,
+      "Attention V": 0.7894736842105263
+    }
+  },
+  {
+    "rank": 56,
+    "token_id": 2209,
+    "frequency": 739,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 7.171853856562922,
+      "Attention K": 40.46008119079838,
+      "Attention Q": 36.80649526387009,
+      "MLP": 14.208389715832206,
+      "Attention V": 0.5412719891745602,
+      "Attention": 0.8119079837618403
+    }
+  },
+  {
+    "rank": 57,
+    "token_id": 2574,
+    "frequency": 681,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 9.544787077826726,
+      "Attention K": 40.52863436123348,
+      "Attention Q": 36.27019089574156,
+      "MLP": 13.069016152716593,
+      "Attention": 0.2936857562408223,
+      "Attention V": 0.2936857562408223
+    }
+  },
+  {
+    "rank": 58,
+    "token_id": 2561,
+    "frequency": 665,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 3.909774436090226,
+      "Attention K": 45.26315789473684,
+      "Attention Q": 34.73684210526316,
+      "MLP": 15.488721804511279,
+      "Attention V": 0.30075187969924816,
+      "Attention": 0.30075187969924816
+    }
+  },
+  {
+    "rank": 59,
+    "token_id": 271,
+    "frequency": 663,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 13.273001508295627,
+      "Attention K": 44.645550527903474,
+      "Attention Q": 33.4841628959276,
+      "MLP": 8.295625942684765,
+      "Attention": 0.301659125188537
+    }
+  },
+  {
+    "rank": 60,
+    "token_id": 160,
+    "frequency": 658,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 7.90273556231003,
+      "Attention K": 41.48936170212766,
+      "Attention Q": 37.234042553191486,
+      "MLP": 13.221884498480243,
+      "Attention": 0.1519756838905775
+    }
+  },
+  {
+    "rank": 61,
+    "token_id": 3187,
+    "frequency": 578,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 7.26643598615917,
+      "Attention K": 42.56055363321799,
+      "Attention Q": 37.0242214532872,
+      "MLP": 12.110726643598616,
+      "Attention V": 0.5190311418685121,
+      "Attention": 0.5190311418685121
+    }
+  },
+  {
+    "rank": 62,
+    "token_id": 3787,
+    "frequency": 571,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 5.253940455341506,
+      "Attention K": 43.957968476357266,
+      "Attention Q": 38.704028021015766,
+      "MLP": 11.558669001751314,
+      "Attention": 0.5253940455341506
+    }
+  },
+  {
+    "rank": 63,
+    "token_id": 386,
+    "frequency": 534,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 7.303370786516854,
+      "Attention K": 39.13857677902622,
+      "Attention Q": 42.50936329588015,
+      "Attention": 0.37453183520599254,
+      "MLP": 10.674157303370785
+    }
+  },
+  {
+    "rank": 64,
+    "token_id": 414,
+    "frequency": 478,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 6.066945606694561,
+      "Attention K": 42.67782426778243,
+      "Attention Q": 44.35146443514644,
+      "MLP": 6.485355648535565,
+      "Attention": 0.41841004184100417
+    }
+  },
+  {
+    "rank": 65,
+    "token_id": 3437,
+    "frequency": 470,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 5.957446808510639,
+      "Attention K": 41.27659574468085,
+      "Attention Q": 41.702127659574465,
+      "MLP": 11.063829787234042
+    }
+  },
+  {
+    "rank": 66,
+    "token_id": 142,
+    "frequency": 448,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 24.107142857142858,
+      "Attention K": 40.17857142857143,
+      "Attention Q": 29.6875,
+      "MLP": 5.357142857142857,
+      "Attention": 0.6696428571428571
+    }
+  },
+  {
+    "rank": 67,
+    "token_id": 1719,
+    "frequency": 437,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 7.322654462242563,
+      "Attention K": 46.224256292906176,
+      "Attention Q": 39.359267734553775,
+      "MLP": 6.636155606407322,
+      "Attention V": 0.4576659038901602
+    }
+  },
+  {
+    "rank": 68,
+    "token_id": 396,
+    "frequency": 434,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 4.838709677419355,
+      "Attention K": 45.622119815668206,
+      "Attention Q": 42.857142857142854,
+      "MLP": 6.451612903225806,
+      "Attention": 0.2304147465437788
+    }
+  },
+  {
+    "rank": 69,
+    "token_id": 4008,
+    "frequency": 432,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 9.49074074074074,
+      "Attention K": 42.592592592592595,
+      "Attention Q": 39.58333333333333,
+      "MLP": 8.333333333333332
+    }
+  },
+  {
+    "rank": 70,
+    "token_id": 2180,
+    "frequency": 419,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 16.467780429594274,
+      "Attention K": 36.0381861575179,
+      "Attention Q": 39.37947494033413,
+      "Attention": 0.23866348448687352,
+      "MLP": 7.637231503579953,
+      "Attention V": 0.23866348448687352
+    }
+  },
+  {
+    "rank": 71,
+    "token_id": 64,
+    "frequency": 416,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 4.567307692307692,
+      "Attention K": 42.06730769230769,
+      "Attention Q": 45.43269230769231,
+      "MLP": 7.6923076923076925,
+      "Attention V": 0.2403846153846154
+    }
+  },
+  {
+    "rank": 72,
+    "token_id": 3717,
+    "frequency": 404,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 10.14851485148515,
+      "Attention K": 38.613861386138616,
+      "Attention Q": 41.83168316831683,
+      "MLP": 9.158415841584159,
+      "Attention": 0.24752475247524752
+    }
+  },
+  {
+    "rank": 73,
+    "token_id": 314,
+    "frequency": 400,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 12.5,
+      "Attention K": 42.25,
+      "Attention Q": 40.25,
+      "MLP": 4.5,
+      "Attention V": 0.5
+    }
+  },
+  {
+    "rank": 74,
+    "token_id": 78,
+    "frequency": 396,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 5.808080808080808,
+      "Attention K": 49.494949494949495,
+      "Attention Q": 36.61616161616162,
+      "MLP": 8.080808080808081
+    }
+  },
+  {
+    "rank": 75,
+    "token_id": 242,
+    "frequency": 374,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 7.219251336898395,
+      "Attention K": 46.25668449197861,
+      "Attention Q": 40.64171122994652,
+      "MLP": 5.614973262032086,
+      "Attention": 0.267379679144385
+    }
+  },
+  {
+    "rank": 76,
+    "token_id": 3389,
+    "frequency": 358,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 5.027932960893855,
+      "Attention K": 40.502793296089386,
+      "Attention Q": 43.296089385474865,
+      "MLP": 10.614525139664805,
+      "Attention": 0.5586592178770949
+    }
+  },
+  {
+    "rank": 77,
+    "token_id": 511,
+    "frequency": 345,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 8.695652173913043,
+      "Attention K": 41.73913043478261,
+      "Attention Q": 40.869565217391305,
+      "Attention": 0.2898550724637681,
+      "MLP": 8.115942028985506,
+      "Attention V": 0.2898550724637681
+    }
+  },
+  {
+    "rank": 78,
+    "token_id": 3219,
+    "frequency": 303,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 27.062706270627064,
+      "Attention K": 39.273927392739274,
+      "Attention Q": 29.7029702970297,
+      "MLP": 3.9603960396039604
+    }
+  },
+  {
+    "rank": 79,
+    "token_id": 3776,
+    "frequency": 302,
+    "effective_rank": 12.0,
+    "layer_distribution": {
+      "Embeddings": 100.0
+    }
+  },
+  {
+    "rank": 80,
+    "token_id": 2821,
+    "frequency": 263,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 5.323193916349809,
+      "Attention K": 46.38783269961977,
+      "Attention Q": 41.825095057034225,
+      "MLP": 6.083650190114068,
+      "Attention": 0.38022813688212925
+    }
+  },
+  {
+    "rank": 81,
+    "token_id": 3479,
+    "frequency": 246,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 9.34959349593496,
+      "Attention K": 43.08943089430895,
+      "Attention Q": 42.68292682926829,
+      "MLP": 4.878048780487805
+    }
+  },
+  {
+    "rank": 82,
+    "token_id": 2087,
+    "frequency": 243,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 38.2716049382716,
+      "Attention K": 27.983539094650205,
+      "Attention Q": 27.572016460905353,
+      "Attention": 0.823045267489712,
+      "MLP": 4.938271604938271,
+      "Attention V": 0.411522633744856
+    }
+  },
+  {
+    "rank": 83,
+    "token_id": 3564,
+    "frequency": 241,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 5.394190871369295,
+      "Attention K": 42.32365145228216,
+      "Attention Q": 48.13278008298755,
+      "MLP": 4.149377593360995
+    }
+  },
+  {
+    "rank": 84,
+    "token_id": 3010,
+    "frequency": 240,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 12.5,
+      "Attention K": 45.0,
+      "Attention Q": 40.0,
+      "MLP": 2.5
+    }
+  },
+  {
+    "rank": 85,
+    "token_id": 1468,
+    "frequency": 235,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 15.319148936170212,
+      "Attention K": 43.829787234042556,
+      "Attention Q": 34.8936170212766,
+      "MLP": 5.957446808510639
+    }
+  },
+  {
+    "rank": 86,
+    "token_id": 3339,
+    "frequency": 234,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 17.094017094017094,
+      "Attention K": 38.88888888888889,
+      "Attention Q": 40.17094017094017,
+      "MLP": 3.418803418803419,
+      "Attention": 0.4273504273504274
+    }
+  },
+  {
+    "rank": 87,
+    "token_id": 3344,
+    "frequency": 232,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 4.310344827586207,
+      "Attention K": 38.793103448275865,
+      "Attention Q": 53.01724137931034,
+      "MLP": 3.8793103448275863
+    }
+  },
+  {
+    "rank": 88,
+    "token_id": 2165,
+    "frequency": 231,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 6.493506493506493,
+      "Attention K": 43.290043290043286,
+      "Attention Q": 48.484848484848484,
+      "MLP": 1.7316017316017316
+    }
+  },
+  {
+    "rank": 89,
+    "token_id": 165,
+    "frequency": 231,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 6.926406926406926,
+      "Attention K": 43.722943722943725,
+      "Attention Q": 43.722943722943725,
+      "MLP": 5.627705627705628
+    }
+  },
+  {
+    "rank": 90,
+    "token_id": 2310,
+    "frequency": 220,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 5.454545454545454,
+      "Attention K": 39.54545454545455,
+      "Attention Q": 46.36363636363636,
+      "MLP": 8.636363636363637
+    }
+  },
+  {
+    "rank": 91,
+    "token_id": 3657,
+    "frequency": 219,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 5.47945205479452,
+      "Attention K": 44.29223744292237,
+      "Attention Q": 46.57534246575342,
+      "MLP": 3.1963470319634704,
+      "Attention": 0.45662100456621
+    }
+  },
+  {
+    "rank": 92,
+    "token_id": 3930,
+    "frequency": 216,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 6.944444444444445,
+      "Attention K": 48.61111111111111,
+      "Attention Q": 40.27777777777778,
+      "MLP": 3.7037037037037033,
+      "Attention": 0.4629629629629629
+    }
+  },
+  {
+    "rank": 93,
+    "token_id": 2174,
+    "frequency": 214,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 5.607476635514018,
+      "Attention K": 42.99065420560748,
+      "Attention Q": 48.598130841121495,
+      "MLP": 2.803738317757009
+    }
+  },
+  {
+    "rank": 94,
+    "token_id": 2127,
+    "frequency": 209,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 5.741626794258373,
+      "Attention K": 44.97607655502392,
+      "Attention Q": 48.32535885167464,
+      "MLP": 0.9569377990430622
+    }
+  },
+  {
+    "rank": 95,
+    "token_id": 51,
+    "frequency": 191,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 7.853403141361256,
+      "Attention K": 44.50261780104712,
+      "Attention Q": 39.79057591623037,
+      "MLP": 7.853403141361256
+    }
+  },
+  {
+    "rank": 96,
+    "token_id": 637,
+    "frequency": 171,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 4.678362573099415,
+      "Attention K": 43.859649122807014,
+      "Attention Q": 46.783625730994146,
+      "MLP": 3.508771929824561,
+      "Attention": 1.1695906432748537
+    }
+  },
+  {
+    "rank": 97,
+    "token_id": 3475,
+    "frequency": 159,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 6.918238993710692,
+      "Attention K": 48.42767295597484,
+      "Attention Q": 42.76729559748428,
+      "MLP": 1.8867924528301887
+    }
+  },
+  {
+    "rank": 98,
+    "token_id": 1780,
+    "frequency": 159,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 12.578616352201259,
+      "Attention K": 45.911949685534594,
+      "Attention Q": 41.509433962264154
+    }
+  },
+  {
+    "rank": 99,
+    "token_id": 3972,
+    "frequency": 151,
+    "effective_rank": 16.0,
+    "layer_distribution": {
+      "Embeddings": 7.28476821192053,
+      "Attention K": 46.35761589403973,
+      "Attention Q": 42.384105960264904,
+      "MLP": 3.9735099337748347
+    }
+  },
+  {
+    "rank": 100,
+    "token_id": 2973,
+    "frequency": 149,
+    "effective_rank": 15.0,
+    "layer_distribution": {
+      "Embeddings": 8.053691275167784,
+      "Attention K": 45.63758389261745,
+      "Attention Q": 42.281879194630875,
+      "MLP": 4.026845637583892
+    }
+  }
+]

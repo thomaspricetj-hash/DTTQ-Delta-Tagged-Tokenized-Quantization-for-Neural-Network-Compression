@@ -1,0 +1,82 @@
+Layer,Family,Count
+Embeddings,59,126331
+Embeddings,25,18692
+Embeddings,4,4481
+Embeddings,26,4415
+Embeddings,60,2987
+Embeddings,27,30
+Embeddings,37,5
+Embeddings,10,3
+Embeddings,39,2
+Embeddings,57,1
+Embeddings,0,1
+Embeddings,51,1
+Embeddings,15,1
+Embeddings,17,1
+Embeddings,35,1
+Embeddings,18,1
+Embeddings,19,1
+Embeddings,28,1
+Embeddings,2,1
+Embeddings,44,1
+Attention K,25,27248
+Attention K,60,88
+Attention K,10,72
+Attention K,37,41
+Attention K,59,35
+Attention K,27,32
+Attention K,57,31
+Attention K,3,19
+Attention K,55,16
+Attention K,36,12
+Attention K,34,7
+Attention K,20,6
+Attention K,12,4
+Attention K,45,4
+Attention K,46,3
+Attention K,0,3
+Attention K,26,2
+Attention K,5,2
+Attention K,63,2
+Attention K,48,2
+Attention V,25,27647
+Attention V,9,1
+Attention Q,25,27188
+Attention Q,10,110
+Attention Q,60,86
+Attention Q,59,51
+Attention Q,27,48
+Attention Q,57,31
+Attention Q,37,29
+Attention Q,55,15
+Attention Q,3,13
+Attention Q,9,9
+Attention Q,36,9
+Attention Q,46,9
+Attention Q,34,7
+Attention Q,47,5
+Attention Q,48,4
+Attention Q,12,3
+Attention Q,45,3
+Attention Q,33,2
+Attention Q,7,2
+Attention Q,54,2
+Attention,25,27648
+MLP,25,221124
+MLP,12,15
+MLP,60,12
+MLP,10,10
+MLP,59,5
+MLP,55,3
+MLP,57,3
+MLP,27,2
+MLP,3,1
+MLP,9,1
+MLP,63,1
+MLP,45,1
+MLP,20,1
+MLP,29,1
+MLP,46,1
+MLP,21,1
+MLP,5,1
+MLP,49,1

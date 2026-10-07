@@ -1,0 +1,38 @@
+2026-10-07:07:26:35 WARNING  [config.evaluate_config:337] --limit SHOULD ONLY BE USED FOR TESTING. REAL METRICS SHOULD NOT BE COMPUTED USING LIMIT.
+2026-10-07:07:26:42 INFO     [_cli.run:392] Selected Tasks: ['piqa']
+2026-10-07:07:26:43 INFO     [evaluator:214] Setting random seed to 0 | Setting numpy seed to 1234 | Setting torch manual seed to 1234 | Setting fewshot manual seed to 1234
+2026-10-07:07:26:43 INFO     [evaluator:239] Initializing hf model, with arguments: {'pretrained': 'facebook/opt-125m'}
+2026-10-07:07:26:46 INFO     [models.huggingface:297] Device not specified
+2026-10-07:07:26:46 INFO     [models.huggingface:298] Cuda Available? False
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-10-07:07:26:47 INFO     [models.huggingface:582] Model parallel was set to False, max memory was not set, and device map was set to {'': 'cpu'}
+Loading weights:   0%|          | 0/197 [00:00<?, ?it/s]Loading weights: 100%|##########| 197/197 [00:00<00:00, 39049.05it/s]
+2026-10-07:07:26:48 INFO     [evaluator_utils:472] Selected tasks:
+2026-10-07:07:26:48 INFO     [evaluator_utils:506] Task: piqa (piqa\piqa.yaml)
+2026-10-07:07:26:48 INFO     [api.task:312] Building contexts for piqa on rank 0...
+  0%|          | 0/5 [00:00<?, ?it/s]100%|##########| 5/5 [00:00<00:00, 1431.31it/s]
+2026-10-07:07:26:48 INFO     [evaluator:589] Running loglikelihood requests
+Tokenizing inputs:   0%|          | 0/10 [00:00<?, ?it/s]Tokenizing inputs: 100%|##########| 10/10 [00:00<00:00, 7788.87it/s]
+Running loglikelihood requests:   0%|          | 0/10 [00:00<?, ?it/s]Running loglikelihood requests:  10%|#         | 1/10 [00:00<00:01,  6.88it/s]Running loglikelihood requests:  20%|##        | 2/10 [00:00<00:01,  6.91it/s]Running loglikelihood requests:  40%|####      | 4/10 [00:00<00:00,  9.57it/s]Running loglikelihood requests:  60%|######    | 6/10 [00:00<00:00, 12.56it/s]Running loglikelihood requests:  90%|######### | 9/10 [00:00<00:00, 15.79it/s]Running loglikelihood requests: 100%|##########| 10/10 [00:00<00:00, 13.57it/s]
+fatal: not a git repository (or any of the parent directories): .git
+2026-10-07:07:26:52 INFO     [loggers.evaluation_tracker:247] Saving results aggregated
+Traceback (most recent call last):
+  File "<frozen runpy>", line 203, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\thoma\AppData\Local\Python\pythoncore-3.14-64\Scripts\lm-eval.exe\__main__.py", line 5, in <module>
+    sys.exit(cli_evaluate())
+             ~~~~~~~~~~~~^^
+  File "C:\Users\thoma\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\lm_eval\__main__.py", line 10, in cli_evaluate
+    parser.execute(args)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\thoma\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\lm_eval\_cli\harness.py", line 60, in execute
+    args.func(args)
+    ~~~~~~~~~^^^^^^
+  File "C:\Users\thoma\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\lm_eval\_cli\run.py", line 489, in _execute
+    print(make_table(results))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\thoma\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2191' in position 160: character maps to <undefined>
+hf ({'pretrained': 'facebook/opt-125m'}), gen_kwargs: ({}), limit: 5.0, num_fewshot: None, batch_size: 1
