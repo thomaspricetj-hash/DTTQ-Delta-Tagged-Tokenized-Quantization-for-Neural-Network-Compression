@@ -1,0 +1,5 @@
+Metric,Value
+MSE,0.0002
+Cosine Similarity,0.985
+Attention Output Difference,0.015
+Perplexity Difference %,3.2

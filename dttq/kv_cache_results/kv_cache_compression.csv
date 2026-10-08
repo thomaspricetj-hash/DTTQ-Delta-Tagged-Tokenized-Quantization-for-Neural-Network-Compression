@@ -1,0 +1,5 @@
+Metric,Value
+Raw KV Bytes,100
+DTTQ KV Bytes,45
+Cached DTTQ Bytes,20
+Compression Ratio,5.0
