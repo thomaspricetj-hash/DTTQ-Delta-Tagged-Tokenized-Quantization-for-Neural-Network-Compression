@@ -1,0 +1,3 @@
+Swap_Pair,Perplexity_Delta,Attention_Output_Diff,Reasoning_Performance_Delta
+25<->59,15.4,0.042,-6.2
+25<->4,22.1,0.058,-9.4

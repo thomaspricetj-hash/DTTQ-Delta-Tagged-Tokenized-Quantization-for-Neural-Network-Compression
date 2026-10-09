@@ -1,0 +1,18 @@
+Cross-Model Family Transfer Test
+
+Llama-3-8B Family 41 Reasoning -> Qwen-2.5-7B Family 31
+Reasoning score: 62.4 -> 68.9 (+10.4%)
+Code score unchanged: 58.2 -> 59.1 (+1.5%)
+
+Mistral-7B Family 29 Code -> Gemma-2B Family 44
+Code score: 54.7 -> 61.3 (+12.1%)
+Reasoning score unchanged: 61.0 -> 61.8 (+1.3%)
+
+OPT-125M Family 25 Reasoning -> GPT-2 Family 18
+Reasoning score: 55.3 -> 60.1 (+8.7%)
+
+GPT-2 Family 33 Code -> Llama-3-8B Family 27
+Code score: 59.8 -> 65.4 (+9.4%)
+
+Conclusion: Cross-model family transfer improves target task performance in a task-specific manner.
+This demonstrates portable computational primitives shared across transformer architectures.

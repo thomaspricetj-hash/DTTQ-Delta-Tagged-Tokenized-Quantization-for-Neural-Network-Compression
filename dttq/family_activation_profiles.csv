@@ -1,0 +1,8 @@
+Family_ID,Prompt_Type,Activation_Mean,Activation_Std
+25,Math,0.842,0.12
+25,Code,0.631,0.15
+25,Story,0.312,0.09
+59,Code,0.791,0.11
+59,Math,0.455,0.13
+4,Translation,0.723,0.10
+12,Reasoning,0.688,0.14

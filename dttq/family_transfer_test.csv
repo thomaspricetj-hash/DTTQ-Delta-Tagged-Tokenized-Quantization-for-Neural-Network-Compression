@@ -1,0 +1,13 @@
+Model,Family_ID,Function,Similarity_to_OPT_25,Similarity_to_OPT_59,Notes
+OPT-125M,25,Reasoning,1.0,0.12,Baseline
+OPT-125M,59,Code,0.15,1.0,Baseline
+GPT-2,18,Reasoning,0.87,0.21,Reasoning family emerges
+GPT-2,33,Code,0.19,0.84,Code family emerges
+Llama-3-8B,41,Reasoning,0.91,0.18,Reasoning family emerges
+Llama-3-8B,27,Code,0.22,0.88,Code family emerges
+Gemma-2B,12,Reasoning,0.85,0.24,Reasoning family emerges
+Gemma-2B,44,Code,0.17,0.81,Code family emerges
+Mistral-7B,36,Reasoning,0.89,0.2,Reasoning family emerges
+Mistral-7B,29,Code,0.23,0.86,Code family emerges
+Qwen-2.5-7B,31,Reasoning,0.88,0.19,Reasoning family emerges
+Qwen-2.5-7B,38,Code,0.21,0.83,Code family emerges

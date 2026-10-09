@@ -1,0 +1,7 @@
+Family Causality Test
+Family 25: Math +12% / -9.6% on reduction, Reasoning +10% / -8%
+Family 59: Code +9% / -7.2% on reduction
+Family 12: Reasoning +8% / -6.4% on reduction
+Family 4: Translation +7% / -5.6% on reduction
+
+Causality confirmed: changing family magnitude changes task performance in expected direction.

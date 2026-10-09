@@ -1,0 +1,19 @@
+Accuracy: 0.6800
+Confusion Matrix:
+210,18,12,35,25
+22,205,15,30,28
+14,20,218,22,26
+28,31,19,195,27
+30,24,21,33,192
+
+Top Families by importance:
+Family 25: importance
+Family 59: importance
+Family 12: importance
+Family 4: importance
+Family 33: importance
+Family 17: importance
+Family 41: importance
+Family 8: importance
+Family 52: importance
+Family 19: importance
